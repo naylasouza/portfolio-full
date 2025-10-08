@@ -1,0 +1,8 @@
+[build]
+  # 1. Comando de build padrão do Next.js
+  command = "npm run build"
+
+  # 2. Configurações para o Next.js Plugin
+  # Isso garante que a Netlify saiba como lidar com as funcionalidades do Next.js
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
