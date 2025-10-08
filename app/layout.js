@@ -11,7 +11,11 @@ const ovo = Ovo({
 
 export const metadata = {
   title: "Portfolio - Nayla SR",
-  description: "",
+  description: "Portfólio de Desenvolvedora Full-Stack, Nayla SR.",
+  verification: {
+    google: 'Kj4nw-4AdhSZq0NFjIFaIM-D59xYB9ieoEsOuW_aJn0', 
+  },
+  
 };
 
 export default function RootLayout({ children }) {
