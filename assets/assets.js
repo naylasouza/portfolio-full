@@ -77,6 +77,13 @@ export const assets = {
 };
 
 export const workData = [
+
+  {
+    title: 'Academia',
+    description: 'Web Design',
+    bgImage: '/work-0.png',
+    githubLink: 'https://wongkaratekobudokyokai.netlify.app/',
+  },
   {
     title: 'Cardápio online',
     description: 'Web Design',
@@ -84,17 +91,18 @@ export const workData = [
     githubLink: 'https://github.com/naylasouza/cardapio-online',
   },
   {
-    title: 'Mercado livre',
-    description: 'Réplica - Web Design',
-    bgImage: '/work-2.png',
-    githubLink: 'https://github.com/naylasouza/mercado-livre-replica',
-  },
-  {
     title: 'Plataforma',
     description: 'Empregabilidade',
     bgImage: '/work-3.png',
     githubLink: '',
   },
+  {
+    title: 'Mercado livre',
+    description: 'Réplica - Web Design',
+    bgImage: '/work-2.png',
+    githubLink: 'https://github.com/naylasouza/mercado-livre-replica',
+  },
+  
 ];
 
 export const serviceData = [
