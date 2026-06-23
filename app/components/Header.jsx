@@ -10,7 +10,7 @@ function Header() {
         <Image src={assets.profile_img} alt='Foto de perfil' className='rounded-full w-32'/>
       </div>
       <h3 className='flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo'>
-            Oi! Sou a Nayla Souza Ribeiro <Image src={assets.hand_icon} alt='icone' className='w-6'/>
+            Oi! Sou a Nayla Souza Ribeiro
       </h3>
       <h1 className='text-3x1 sm:text-6x1 lg:text-[66px] font-Ovo'>
         Full Stack web developer.

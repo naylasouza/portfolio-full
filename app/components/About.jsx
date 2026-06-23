@@ -12,23 +12,20 @@ function About() {
       <div className='flex w-full flex-col lg:flex-row gap-20 my-20'>
         <div className='w-full lg:w-1/3 max-w-sm mx-auto rounded-3xl mt-10 lg:mt-0 relative'> 
             <Image 
-                src={assets.user_image} 
+                src={assets.user_profile} 
                 alt="Nayla - Desenvolvedora Full-Stack" 
                 className='w-full h-auto rounded-3xl'
             />
         </div>
         <div className='flex-1'>
           <p className='mb-10'> 
-              Nayla, Desenvolvedora Full-Stack com foco em Front-End, formada pela FIAP.<br/>
-
-              Com experiência no desenvolvimento de uma plataforma de empregabilidade completa, atualmente realizo projetos pontuais 
-              como freelancer, atuando com metodologias ágeis e testes. Minha trajetória é marcada por resultados de excelência e inovação, o que me garantiu 
-              dois prêmios acadêmicos de destaque (1º e 2º lugar em 2023/2024). 
-              Sou uma profissional ambiciosa, focada em entregas e em evolução contínua. 
-              
-              <span className='block font-semibold text-lg'> 
-                  Está buscando alguém que ama o que faz? Vamos conversar!
-              </span>
+              Desenvolvedora Full Stack com foco em Front-End, formada pela FIAP e com experiência na criação de sites, sistemas e plataformas web.
+<br/>
+<br/>
+              Trabalho com React, Next.js, TypeScript e JavaScript, desenvolvendo projetos com código limpo, estrutura escalável e foco em manutenção a longo prazo. Também aplico técnicas de SEO para melhorar o posicionamento dos projetos nos buscadores e utilizo minha formação em UX para criar interfaces mais intuitivas e funcionais.
+<br/>
+<br/>
+              Ao longo da minha trajetória, participei de projetos para diferentes necessidades e segmentos, sempre buscando soluções práticas, bem construídas e alinhadas aos objetivos do negócio.
           </p>
           
           <ul className='grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-2xl'> 
