@@ -100,7 +100,7 @@ export const workData = [
   },
   {
     title: 'Mercado livre',
-    description: 'Réplica - Web Design',
+    description: 'Réplica - Full Stack',
     bgImage: '/work-2.png',
     githubLink: 'https://github.com/naylasouza/mercado-livre-replica',
   },
