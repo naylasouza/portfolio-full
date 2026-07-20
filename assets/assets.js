@@ -82,19 +82,19 @@ export const workData = [
 
   {
     title: 'Academia',
-    description: 'Web Design',
+    description: 'UI/UX & Front-End Development',
     bgImage: '/work-0.png',
     githubLink: 'https://wongkaratekobudo.com/',
   },
   {
     title: 'Cardápio online',
-    description: 'Web Design',
+    description: 'UI/UX & Front-End Development',
     bgImage: '/work-1.png',
     githubLink: 'https://github.com/naylasouza/cardapio-online',
   },
   {
     title: 'Plataforma',
-    description: 'Empregabilidade',
+    description: 'Front-End Development',
     bgImage: '/work-3.png',
     githubLink: '',
   },
